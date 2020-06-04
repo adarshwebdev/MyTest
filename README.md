@@ -1,0 +1,1 @@
+This is the first REDME for the newest repo I have created to understand hw Git works.
